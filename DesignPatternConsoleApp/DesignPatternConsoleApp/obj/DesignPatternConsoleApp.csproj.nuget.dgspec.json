@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Remnant\\DesignPattern\\DesignPatternConsoleApp\\DesignPatternConsoleApp\\DesignPatternConsoleApp.csproj": {}
+    "H:\\Remnant\\Project Work\\Repository\\DesignPattern\\DesignPatternConsoleApp\\DesignPatternConsoleApp\\DesignPatternConsoleApp.csproj": {}
   },
   "projects": {
-    "H:\\Remnant\\DesignPattern\\DesignPatternConsoleApp\\DesignPatternConsoleApp\\DesignPatternConsoleApp.csproj": {
+    "H:\\Remnant\\Project Work\\Repository\\DesignPattern\\DesignPatternConsoleApp\\DesignPatternConsoleApp\\DesignPatternConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Remnant\\DesignPattern\\DesignPatternConsoleApp\\DesignPatternConsoleApp\\DesignPatternConsoleApp.csproj",
+        "projectUniqueName": "H:\\Remnant\\Project Work\\Repository\\DesignPattern\\DesignPatternConsoleApp\\DesignPatternConsoleApp\\DesignPatternConsoleApp.csproj",
         "projectName": "DesignPatternConsoleApp",
-        "projectPath": "H:\\Remnant\\DesignPattern\\DesignPatternConsoleApp\\DesignPatternConsoleApp\\DesignPatternConsoleApp.csproj",
+        "projectPath": "H:\\Remnant\\Project Work\\Repository\\DesignPattern\\DesignPatternConsoleApp\\DesignPatternConsoleApp\\DesignPatternConsoleApp.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "H:\\Remnant\\DesignPattern\\DesignPatternConsoleApp\\DesignPatternConsoleApp\\obj\\",
+        "outputPath": "H:\\Remnant\\Project Work\\Repository\\DesignPattern\\DesignPatternConsoleApp\\DesignPatternConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
