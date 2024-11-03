@@ -3,3 +3,5 @@
 /obj
 # Visual Studio 2015 cache/options directory
 .vs/
+/DesignPatternConsoleApp/obj
+/DesignPatternConsoleApp/bin/Debug/net8.0

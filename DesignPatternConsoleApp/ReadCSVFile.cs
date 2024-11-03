@@ -21,7 +21,7 @@ namespace DesignPatternConsoleApp
             {
                 HasHeaderRecord = false,
             };
-            using (var reader = new StreamReader("H:/Remnant/DesignPattern/demo_salesforce_data.csv"))
+            using (var reader = new StreamReader("H:/Remnant/Project Work/Repository/DesignPattern/demo_salesforce_data.csv"))
 
             using (var csv = new CsvReader(reader, configuration))
             { 

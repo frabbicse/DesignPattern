@@ -1,4 +1,5 @@
 ﻿using DesignPatternConsoleApp;
+using DesignPatternConsoleApp.Factory_Method;
 
 internal class Program
 {
@@ -6,7 +7,8 @@ internal class Program
     {
         Console.WriteLine("Hello, World!");
 
-        IDBOperations dbOperations = DbOperationsFactory.DBOperations("CSV");
+        //IDBOperations dbOperations = DbOperationsFactory.DBOperations("CSV");
+        IDBOperations dbOperations = new DBOperationFactory().DBOperations();
 
         if (dbOperations != null)
         {
