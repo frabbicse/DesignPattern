@@ -5,3 +5,6 @@
 .vs/
 /DesignPatternConsoleApp/obj
 /DesignPatternConsoleApp/bin/Debug/net8.0
+/AbstractFactoryDP/bin/Debug/net8.0
+/AbstractFactoryDP/obj
+/BuildderDP/obj
